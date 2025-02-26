@@ -14,4 +14,4 @@
 
 那么，Let‘s BEGIN！
 
-1.[现有压缩算法略读](existing_algorithms)
+1.[现有压缩算法略读](existing_algorithms.md)
