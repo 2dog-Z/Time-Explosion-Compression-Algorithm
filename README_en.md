@@ -1,5 +1,5 @@
 # Time-Explosion-Compression-Algorithm
-
+[中文](README.md)
 # Preface
 
 In this era of exponentially growing computational demands, I believe that seemingly insurmountable computing challenges today may well be overcome by revolutionary breakthroughs in processing power tomorrow.
