@@ -1,7 +1,5 @@
 # Time-Explosion-Compression-Algorithm
-
-[English Version]:README_en.md
-
+[English Version](README_en.md)
 # 前言
 
 在这个算力需求爆炸式增长的时代，我认为，当下看似完全不可行的计算难题，或许会因未来算力的革命性突破而迎刃而解。
